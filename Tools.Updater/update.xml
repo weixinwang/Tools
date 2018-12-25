@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<UpdateInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AppName>Tester</AppName>
+  <PackageName>Tester V1.0.0.1.zip</PackageName>
+  <AppVersion>1.0.0.5</AppVersion>
+  <DownloadUrl>http://192.168.1.105:8090/Uploads</DownloadUrl>
+  <MD5>00000000-0000-0000-0000-000000000000</MD5>
+  <FileExecuteBefore />
+  <ExecuteArgumentBefore />
+  <FileExecuteAfter />
+  <ExecuteArgumentAfter />
+  <Description>
+    1 添加日志
+    2 修改xxxBug
+  </Description>
+</UpdateInfo>
